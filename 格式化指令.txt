@@ -1,0 +1,1 @@
+format/q f:/fs:fat32/a:4096
